@@ -106,17 +106,20 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="50">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
 </p>
 
