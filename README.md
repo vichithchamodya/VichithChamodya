@@ -119,6 +119,10 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50">
 </p>
 
+<div align="center">
+  <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
+</div>
+
 <br>
 
 <div align="center">
