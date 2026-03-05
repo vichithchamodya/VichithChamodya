@@ -124,7 +124,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </p>
 
 <div align="center">
-  <img height="50" alt="Coding in progress" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
+  <img height="50" alt="tech stack" width="100%" src="https://github.com/VichithChamodya/VichithChamodya/blob/main/custom-marquee.svg" />
 </div>
 
 <br>
