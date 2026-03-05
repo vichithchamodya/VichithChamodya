@@ -105,6 +105,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50">
