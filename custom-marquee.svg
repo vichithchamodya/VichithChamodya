@@ -26,7 +26,6 @@
           position: absolute;
           overflow: hidden;
           animation: marquee 10s linear infinite;
-          color: #f75c7e;
           font-family: monospace;
           font-size: 20px;
           line-height: 50px;
@@ -40,7 +39,41 @@
       </style>
       <div class="container">
         <div class="marquee">
-          <div>Coding in progress... Creativity unleashed...</div>
+          <div>
+            <span style="color:#54C5F8">Flutter</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#000000">NextJS</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#049EF4">ThreeJS</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#61DAFB">React</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#38BDF8">TailwindCSS</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#7952B3">Bootstrap</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#777BB4">PHP</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#0769AD">JQuery</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#E34C26">HTML</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#264DE4">CSS</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#F7DF1E">JavaScript</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#B07219">Java</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#A97BFF">Kotlin</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#3572A5">Python</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#FFCA28">Firebase</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#3ECF8E">Supabase</span>
+            <span style="color:#ffffff"> </span>
+            <span style="color:#4479A1">MySQL</span>
+          </div>
         </div>
       </div>
     </div>
