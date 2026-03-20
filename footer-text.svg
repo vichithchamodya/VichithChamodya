@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 800 50" width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: 100%;
+          height: 50px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background: transparent;
+        }
+        
+        .marquee {
+          width: 100%;
+          height: 50px;
+          overflow: hidden;
+          position: relative;
+          background: transparent;
+        }
+        
+        .marquee div {
+          display: block;
+          width: 200%;
+          height: 50px;
+          position: absolute;
+          overflow: hidden;
+          animation: marquee 10s linear infinite;
+          color: #f75c7e;
+          font-family: monospace;
+          font-size: 20px;
+          line-height: 50px;
+          text-align: center;
+        }
+        
+        @keyframes marquee {
+          0% { left: 0; }
+          100% { left: -100%; }
+        }
+      </style>
+      <div class="container">
+        <div class="marquee">
+          <div>Coding in progress... Creativity unleashed...</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
