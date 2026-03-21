@@ -43,28 +43,15 @@
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
-</div>
+</div> -->
 
 <!-- Trophies with theme support -->
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=8"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=VichithChamodya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" />
-  </picture>
-</div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header"/>
-</div>
+</div> -->
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
@@ -75,7 +62,7 @@
 
 - 💻 Versatile Software Developer skilled in for mobile & web development
 - 🎓 Currently pursuing Software Engineering at NIBM
-- 📚 Proficient in Java, JavaScript, SQL, and Python
+- 📚 Proficient in Flutter, kotlin, React and Next.js
 - 💡 Known for adaptability and quick learning of new tools and frameworks
 - 🎯 Focused on delivering high-quality software that exceeds expectations
 - 🌐 Driven to contribute to cutting-edge and creative software initiatives
@@ -84,7 +71,7 @@
 ```js
 name: Vichith Chamodya Wickramarathna
 located_in: Sri Lanka
-current_focus: Mobile Application Development
+current_focus: Frontend & Mobile App Dev
 education: Software Engineering at NIBM
 fields_of_interests:
   [
@@ -92,7 +79,7 @@ fields_of_interests:
     "Web Development",
     "UI/UX"
   ]
-currently_learning: ["Flutter", "Kotlin", "React Native"]
+currently_learning: ["Flutter", "React", "Next.js"]
 hobbies: ["Coding", "Tech Research", "Problem Solving"]
 ```
 
@@ -181,21 +168,12 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 </h2>
 
 <p align="center">
-  <a href="https://vichithchamodya-resume.netlify.app/">
-    <img src="https://img.shields.io/badge/My CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-  <a href="https://www.linkedin.com/in/vichith-wickramarathna">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vichithwikramarathna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://vichithchamodya.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://vichithchamodya-resume.netlify.app/"><img src="https://img.shields.io/badge/My CV-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vichith-wickramarathna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:vichithwikramarathna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -209,4 +187,6 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
 <!-- Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VichithChamodya&label=Profile%20views&color=f63c64&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/VichithChamodya?label=Followers&style=for-the-badge&color=3D84FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/VichithChamodya?label=Total%20Stars&style=for-the-badge&color=41b883&logo=github" />
 </p>
