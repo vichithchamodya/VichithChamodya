@@ -75,11 +75,11 @@ current_focus: Frontend & Mobile App Dev
 education: Software Engineering at NIBM
 fields_of_interests:
   [
-    "Mobile Application Development"
+    "Mobile App Development"
     "Web Development",
     "UI/UX"
   ]
-currently_learning: ["Flutter", "React", "Next.js"]
+currently_learning: ["Flutter", "React.js", "Next.js", "Three.js"]
 hobbies: ["Coding", "Tech Research", "Problem Solving"]
 ```
 
