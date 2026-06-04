@@ -171,7 +171,7 @@ hobbies: ["Coding", "Tech Research", "Problem Solving"]
   <a href="https://vichithchamodya.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://vichithchamodya-resume.netlify.app/"><img src="https://img.shields.io/badge/My CV-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vichith-wickramarathna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:vichithwikramarathna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:vichithwikramarathna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100034749071127&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/vichith_wickramarathna?igsh=bGkzNTF5eHFjenJh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
